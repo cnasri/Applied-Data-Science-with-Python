@@ -1,2 +1,2 @@
 
-Add commentaries to Pyrthon files
+Add commentaries to Python files
